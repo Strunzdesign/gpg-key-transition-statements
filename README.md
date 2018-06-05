@@ -20,3 +20,4 @@ by looking up the parent key and finding the subkey contained in it.
 Key migration statements this repository contains:
 
 * 8900A8F5 (superseded 2018-06-04) => 8E6CD3D7
+* 4074488B (superseded 2018-06-05) => 8E6CD3D7
