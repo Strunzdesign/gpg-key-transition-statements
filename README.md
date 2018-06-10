@@ -21,3 +21,4 @@ Key migration statements this repository contains:
 
 * 8900A8F5 (superseded 2018-06-04) => 8E6CD3D7
 * 4074488B (superseded 2018-06-05) => 8E6CD3D7
+* 0x1009EC3A8E6CD3D7 (superseded 2018-06-10) => 0xEB6AA5D532109BF0
